@@ -1,2 +1,3 @@
 # configs
-moromoro no config
+
+諸々の設定ファイル
